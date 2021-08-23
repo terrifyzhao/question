@@ -66,7 +66,7 @@
   + 图像识别(分辨猫狗)；
   + 目标检测，就是视频里有个框一直在锁定这人脸之类的，例如下图，右边这种目标检测做的更好。深圳交警搞了个摄像头检测司机和副驾驶有没有系安全带；
 
-  ![image-20210823225041976](C:\Users\Joe\AppData\Roaming\Typora\typora-user-images\image-20210823225041976.png)
+  ![image-20210823225041976](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hZTAxLmFsaWNkbi5jb20va2YvVVRCOFhaTXF2cFBKWEtKa1NhaFZxNnh5ekZYYTAuanBn)
 
   + 图像还有一块就是生成假图了，听说淘宝双11好多商品宣传图都是自动生成的；
 
